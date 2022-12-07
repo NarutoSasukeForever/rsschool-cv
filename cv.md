@@ -1,6 +1,5 @@
 <h1>Elizaveta Felzina</h1>
-<br>
-Contacts
+<h3>Contacts</h3>
 <p>Location: Stavropol, Russia</p>
 <p>Phone: +7 968 27 92 968</p>
 <p>Email: felzina_liza@mail.ru</p>
@@ -16,11 +15,11 @@ I finished a linguistic university, know five languages(English, German, French,
 <li>React
 </ul>
 <h2>Code Example</h2>
-function sum(a, b) {
-  return a + b;
-}
+<p>function sum(a, b) {</p>
+<p>  return a + b;</p>
+<p>}</p>
 
-let result = sum(1, 2);
-alert( result );
+<p>let result = sum(1, 2);</p>
+<p>alert( result );</p>
 
 
