@@ -15,5 +15,12 @@ I finished a linguistic university, know five languages(English, German, French,
 <li>JavaScript
 <li>React
 </ul>
+<h2>Code Example</h2>
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
 
 
