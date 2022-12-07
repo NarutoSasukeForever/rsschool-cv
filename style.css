@@ -1,5 +1,9 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+
 img {
-    height: 250px;
+    height: 210px;
     width: 200px;
     margin-right: 30px;
     border-radius: 50%;
