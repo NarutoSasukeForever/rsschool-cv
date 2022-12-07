@@ -8,5 +8,12 @@ Contacts
 <br>
 <h2>About Me</h2>
 I finished a linguistic university, know five languages(English, German, French, Spanish, Chinese). Always wanted to try something new, recently finished a Frontend-Developer course from Innopolis University.
+<h2>Skills</h2>
+<ul>
+<li>HTML
+<li>CSS
+<li>JavaScript
+<li>React
+</ul>
 
 
