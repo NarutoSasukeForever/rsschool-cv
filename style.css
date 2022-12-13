@@ -126,6 +126,15 @@ body {
     height: 6px;
     background: #081921;
     display: block;
+    margin-top: 5px;
+}
+
+.contact-info.language .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #03a9f4;
 }
 
 .container .right-side {
@@ -133,4 +142,23 @@ body {
     background-color: #fff;
     padding: 40px;
     margin-top: 5px;
+}
+
+.about {
+    margin-bottom: 50px;
+}
+
+.about:last-child {
+    margin-bottom: 0;
+}
+
+.title2 {
+    color: #003147;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #333;
 }
