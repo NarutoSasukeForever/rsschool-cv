@@ -109,16 +109,6 @@ body {
     margin-bottom: 15px;
 }
 
-.contact-info.education h5 {
-    color: #efc4d1;
-    font-weight: 500;
-}
-
-.contact-info.education h4 {
-    color: #fff;
-    font-weight: 500;
-}
-
 .contact-info.language .percent {
     position: relative;
     width: 100%;
